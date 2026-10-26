@@ -26,6 +26,7 @@ public class FamousQuotes {
             System.out.println();
         } catch (Exception e) {
             System.out.println("Sorry, make sure the number is between 1 and 9(included)");
+
         }
     }
 }
